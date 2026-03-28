@@ -6,9 +6,9 @@ This project focuses on building an AI-driven system to predict loan approval an
 
 ## 🎯 Objective
 
-* Predict whether a loan will be approved or rejected
-* Analyze key factors influencing loan approval
-* Provide insights for risk assessment in banking
+* Predict whether a loan will be approved or rejected.
+* Analyze key factors influencing loan approval.
+* Provide insights for risk assessment in banking.
 
 ## 🛠️ Technologies Used
 
@@ -34,28 +34,28 @@ This project focuses on building an AI-driven system to predict loan approval an
 
 ## ⚙️ Data Preprocessing
 
-* Removed unnecessary columns (loan_id)
-* Converted categorical data into numerical format
-* Cleaned and standardized string values
-* Checked and handled missing values
+* Removed unnecessary columns (loan_id).
+* Converted categorical data into numerical format.
+* Cleaned and standardized string values.
+* Checked and handled missing values.
 
 ## 🤖 Machine Learning Model
 
-* Model Used: Random Forest Classifier
-* Train-Test Split: 80% Training, 20% Testing
+* Model Used: Random Forest Classifier.
+* Train-Test Split: 80% Training, 20% Testing.
 
 ## 📈 Model Performance
 
 * Accuracy: **97.7%**
-* Evaluated using Precision, Recall, F1-score
-* Confusion Matrix used for performance analysis
+* Evaluated using Precision, Recall, F1-score.
+* Confusion Matrix used for performance analysis.
 
 ## 🔍 Key Insights
 
-* Higher CIBIL score increases chances of loan approval
-* Higher income applicants are more likely to get approved
-* Asset values play a significant role in risk assessment
-* Self-employed applicants show varied approval trends
+* Higher CIBIL score increases chances of loan approval.
+* Higher income applicants are more likely to get approved.
+* Asset values play a significant role in risk assessment.
+* Self-employed applicants show varied approval trends.
 
 ## 📊 Visualization
 
