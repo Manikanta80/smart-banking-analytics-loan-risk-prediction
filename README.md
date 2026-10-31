@@ -32,6 +32,7 @@ This project focuses on building an AI-driven system to predict loan approval an
   * Education
   * Loan Status (Target)
 
+
 ## ⚙️ Data Preprocessing
 
 * Removed unnecessary columns (loan_id).
